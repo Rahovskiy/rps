@@ -1,0 +1,16 @@
+D:\курсы\3\rps\bin\Debug\net5.0\rps.exe
+D:\курсы\3\rps\bin\Debug\net5.0\rps.deps.json
+D:\курсы\3\rps\bin\Debug\net5.0\rps.runtimeconfig.json
+D:\курсы\3\rps\bin\Debug\net5.0\rps.runtimeconfig.dev.json
+D:\курсы\3\rps\bin\Debug\net5.0\rps.dll
+D:\курсы\3\rps\bin\Debug\net5.0\ref\rps.dll
+D:\курсы\3\rps\bin\Debug\net5.0\rps.pdb
+D:\курсы\3\rps\obj\Debug\net5.0\rps.csproj.AssemblyReference.cache
+D:\курсы\3\rps\obj\Debug\net5.0\rps.GeneratedMSBuildEditorConfig.editorconfig
+D:\курсы\3\rps\obj\Debug\net5.0\rps.AssemblyInfoInputs.cache
+D:\курсы\3\rps\obj\Debug\net5.0\rps.AssemblyInfo.cs
+D:\курсы\3\rps\obj\Debug\net5.0\rps.csproj.CoreCompileInputs.cache
+D:\курсы\3\rps\obj\Debug\net5.0\rps.dll
+D:\курсы\3\rps\obj\Debug\net5.0\ref\rps.dll
+D:\курсы\3\rps\obj\Debug\net5.0\rps.pdb
+D:\курсы\3\rps\obj\Debug\net5.0\rps.genruntimeconfig.cache
